@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me ✨ </h3>
 
 
 - 🔭 &nbsp; I’m currently working on a few projects for the group I'm working in.
